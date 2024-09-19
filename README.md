@@ -2,7 +2,7 @@
 
 I primarily code in **Python** as a hobby.
 
-I have 1,000 subscribers on [YouTube](https://youtube.com/Infisrael) and over 1K followers on [Twitter](https://twitter.com/1nfisrael).  
+I have 1,100 subscribers on [YouTube](https://youtube.com/Infisrael) and over 1,000 followers on [Twitter](https://twitter.com/1nfisrael).  
 **I am [Infisrael](https://github.com/Infisrael/Infisrael), but you can call me Infi or Inf.**
 
 *I also exist or something, I dunno.*
